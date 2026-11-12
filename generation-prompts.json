@@ -1,0 +1,35 @@
+{
+  "tool": "built-in image_gen",
+  "reference": "outputs/xipurr-white-background.png",
+  "identity": "Orange tabby cat with broad rounded cheeks, hooded eyes, slight smile, swept dark hair, olive red-star cap, olive feline vest with hammer-and-sickle badge, red neckerchief, white paws and striped tail; no moustache; natural cat anatomy. Cinematic humorous photographic 3D style. No text or watermark.",
+  "scenes": [
+    {
+      "name": "hero",
+      "prompt": "Wide landscape 16:9 cinematic website hero photograph, very high quality. The cat sits proudly on a low red lacquer dais on the RIGHT half of a grand Chinese ceremonial courtyard, eye level portrait, full feline body and white paws visible. Enormous deep red silk Communist banners and red lanterns fill the upper background, layered traditional Chinese palace architecture, distant golden haze, a few golden star ornaments, impressive scale. Warm side light on cat's fur, rich red, olive and muted gold palette. LEFT 45 percent is atmospheric dark burgundy silk banner / shadow with subtle architectural depth and deliberately uncluttered negative space for website title. Main cat head around 72% across image and 44% down. Not a poster layout: one continuous immersive wide photograph edge to edge. No graphic borders or inset portrait."
+    },
+    {
+      "name": "dumplings",
+      "prompt": "Square meme photograph. The cat sits at a Chinese communal canteen wooden table, surveying a ridiculously huge mountain of steamed dumplings in bamboo baskets, tiny red flags decorating the feast, deep red canteen wall and small lanterns. Cat looking confidently toward viewer as if all dumplings are his. Wide enough to show two white front paws at the edge and the absurd food pile. Cozy warm light, editorial flash photography humor."
+    },
+    {
+      "name": "wall",
+      "prompt": "Square meme photograph. The cat sits on the stone parapet of the Great Wall of China with white paws neatly together, red scarf blowing slightly, mountainous wall curving into mist behind him. Tiny red Communist flag beside cat attached to wall. Calm smug look, early morning golden light, dramatic atmospheric landscape, funny contrast between very small seated cat and immense architecture. Cat clearly recognizable and fairly large in frame."
+    },
+    {
+      "name": "meeting",
+      "prompt": "Square meme photograph. The cat sits behind an enormous polished desk in a grand Chinese party meeting hall with a red curtain, stylized golden hammer-and-sickle emblem in the distant background, two vintage microphones at cat's height, and a small closed red book under one white paw. Cat's tiny body and official expression create absurd bureaucratic comedy. Rich deep red interior, moody flattering light. No people or other animals."
+    },
+    {
+      "name": "tractor",
+      "prompt": "Square meme photograph. The cat sits naturally on the seat of a vintage little red tractor in a lush Chinese rice paddy, white front paws resting at steering wheel height, smiling sleepily, red scarf and olive cap. Tractor muddy wheels visible, rice terraces and distant Chinese farmhouse, red pennant on tractor. Cat-sized absurd agricultural leader, soft hazy daylight, charming cinematic rural photograph. Natural feline body, no human hands."
+    },
+    {
+      "name": "tea",
+      "prompt": "Square meme photograph. The cat sits naturally at a low tea table in a traditional Chinese courtyard, white paw close to a tiny porcelain teacup, bamboo leaves and a red lantern behind him, red scarf and olive red-star cap. Steam drifting up, calm amused expression, lazy off-duty chairman energy. Detailed weathered wood, soft morning light, close intimate cinematic composition."
+    },
+    {
+      "name": "nap",
+      "prompt": "Square meme photograph. The same cat is asleep curled on a large red velvet ceremonial armchair in a grand Chinese party office, still wearing olive red-star cap, red scarf and feline olive vest. His head rests on a closed little red book, striped tail curled around white paws, a golden star decoration and red silk flag in soft background. Warm afternoon sunbeam, peaceful absurd state-business nap, cute recognizable face seen in three-quarter view. No text anywhere."
+    }
+  ]
+}
